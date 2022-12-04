@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+	    "files.exclude": {
+			"node_modules": true,
+			"vendor": true,
+			"storage": true,
+			"lang": true,
+			"public": true,
+			"*.code-workspace": true
+		}
+	}
+}
