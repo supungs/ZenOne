@@ -19,7 +19,7 @@
         <div class="wrapper">
             <x-layouts.header></x-layouts.header>
             <div class="content-page">
-                {{ $slot }}
+                @inertia
             </div>
         </div>
         <x-layouts.footer></x-layouts.footer>
